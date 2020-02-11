@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('/h', 'HelloController@index');
+Route::get('/g', 'GoodeveningController@index') ;
