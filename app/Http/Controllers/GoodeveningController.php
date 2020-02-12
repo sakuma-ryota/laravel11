@@ -10,3 +10,4 @@ class GoodeveningController extends Controller
         return view('goodevening');
     }
 }
+
